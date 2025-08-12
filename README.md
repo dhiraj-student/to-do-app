@@ -21,7 +21,7 @@ This To-Do App allows users to add, delete, and mark tasks as completed. It is d
 - CSS  
 - JavaScript  
 ## Live Demo
-https://dhiraj-student.github.io/to-do-app/
+
 ## How to Run
 
 1. Clone or download the repository.  
