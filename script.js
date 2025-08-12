@@ -20,10 +20,10 @@ document.getElementById('add-task').addEventListener('click', function () {
         deleteBtn.addEventListener('click', function () {
             taskList.removeChild(newTask);
 
-            // Change background on delete
+            
             document.body.style.backgroundImage = "url('images/task-completed.jpg')";
 
-            // Reset background after 5 seconds (optional)
+            
             setTimeout(() => {
                 document.body.style.backgroundImage = "url('images/kid.jpg')";
             }, 5000);
